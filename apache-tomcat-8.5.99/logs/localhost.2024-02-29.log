@@ -1,0 +1,143 @@
+29-Feb-2024 09:15:01.924 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:15:06.056 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:15:18.487 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:15:21.531 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:15:23.955 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 09:15:26.406 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:15:29.787 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:15:33.296 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 09:15:35.969 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:15:39.429 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:15:48.756 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:15:52.992 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:16:04.380 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 09:16:04.380 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 09:16:04.380 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@310d7e5a')
+29-Feb-2024 09:24:25.670 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:24:29.461 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:24:39.837 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:24:43.018 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:24:45.476 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 09:24:47.715 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:24:51.401 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:24:55.180 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 09:24:57.679 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:25:01.278 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:25:10.646 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:25:14.852 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:25:26.798 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 09:25:26.798 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 09:25:26.798 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@d1317ad')
+29-Feb-2024 09:27:29.527 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 09:27:29.531 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Feb-2024 09:29:16.165 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:29:20.122 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:29:30.469 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:29:33.786 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:29:36.675 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 09:29:39.102 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:29:42.724 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:29:46.390 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 09:29:49.338 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:29:53.764 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:30:04.588 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 09:30:09.018 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 09:30:21.115 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 09:30:21.115 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 09:30:21.115 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@6f4062d1')
+29-Feb-2024 09:30:36.911 信息 [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 09:30:38.326 信息 [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 10:56:51.762 信息 [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 11:08:46.238 信息 [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable App Rest API'
+29-Feb-2024 11:26:56.800 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'dispatcherServlet'
+29-Feb-2024 11:26:56.800 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 11:26:56.804 信息 [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Feb-2024 11:27:19.056 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:27:23.408 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:27:25.992 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:27:29.186 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:27:32.061 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:27:35.417 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:27:38.518 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:27:42.516 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:27:53.577 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:27:58.289 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:27:59.151 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 11:27:59.151 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 11:27:59.151 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@3705c528')
+29-Feb-2024 11:29:41.243 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:29:45.303 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:29:47.752 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:29:51.101 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:29:53.921 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:29:57.383 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:30:00.401 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:30:03.867 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:30:18.915 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:30:23.309 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:30:24.152 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 11:30:24.152 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 11:30:24.156 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@2f134459')
+29-Feb-2024 11:34:08.529 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:34:13.201 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:34:20.491 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:34:23.981 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:34:28.628 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:34:32.549 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:34:36.846 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 11:34:39.552 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:34:43.648 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:34:54.946 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:34:59.473 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:35:06.387 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 11:35:06.387 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 11:35:06.388 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@37c1351b')
+29-Feb-2024 11:35:06.463 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
+29-Feb-2024 11:35:06.463 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()
+29-Feb-2024 11:35:06.466 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Feb-2024 11:35:06.515 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Feb-2024 11:35:06.579 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 11:35:06.583 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
+29-Feb-2024 11:41:44.196 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:41:48.376 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:41:54.751 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:41:58.352 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:42:01.739 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 11:42:11.864 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:42:15.864 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:42:22.434 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:42:25.723 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:42:28.514 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 11:42:31.028 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:42:34.489 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:42:38.595 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 11:42:41.431 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:42:45.734 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:43:00.234 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 11:43:04.450 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 11:43:16.190 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 11:43:16.190 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 11:43:16.190 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@4269bab7')
+29-Feb-2024 11:43:34.188 信息 [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 11:43:34.801 信息 [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 11:49:30.325 信息 [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable App Rest API'
+29-Feb-2024 11:49:41.953 信息 [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 14:32:23.303 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 14:32:27.268 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 14:32:34.451 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 14:32:37.861 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 14:32:40.603 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable IDM App API Servlet'
+29-Feb-2024 14:32:43.302 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 14:32:47.154 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 14:32:50.969 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable Modeler App API Servlet'
+29-Feb-2024 14:32:53.441 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 14:32:57.172 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 14:33:13.037 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+29-Feb-2024 14:33:18.338 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+29-Feb-2024 14:33:26.226 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
+29-Feb-2024 14:33:26.226 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
+29-Feb-2024 14:33:26.226 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@74768740')
+29-Feb-2024 14:34:07.901 信息 [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 14:34:09.812 信息 [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Feb-2024 14:40:03.892 信息 [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Flowable App Rest API'
+29-Feb-2024 14:40:16.889 信息 [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'dispatcherServlet'

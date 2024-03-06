@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Flowable UI Admin
+Implementation-Version: 6.5.0
+Start-Class: org.flowable.ui.admin.application.FlowableAdminApplicatio
+ n
+Spring-Boot-Classes: WEB-INF/classes/
+Spring-Boot-Lib: WEB-INF/lib/
+Build-Jdk-Spec: 1.8
+Spring-Boot-Version: 2.2.2.RELEASE
+Created-By: Maven Archiver 3.4.0
+Implementation-Vendor: Flowable
+Main-Class: org.springframework.boot.loader.WarLauncher
+
